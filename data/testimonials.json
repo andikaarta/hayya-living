@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "role": "CEO, Company A",
+    "content": "Hayya Living provided excellent service and high-quality souvenirs for our corporate event.",
+    "avatar": "/uploads/image-1766889148066-905524292.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "role": "Event Organizer",
+    "content": "Sangat puas dengan kualitas mug dan tumbler customnya. Pengerjaan cepat dan rapi.",
+    "avatar": "/uploads/image-1766889174820-205234708.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Ahmad",
+    "role": "Customer",
+    "content": "Produk souvenir hajinya sangat bermanfaat. Terima kasih Hayya Living!",
+    "avatar": "/uploads/image-1766889190558-823880912.jpeg"
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "1",
+    "category_id": "Tumbler & Botol Minum",
+    "category_en": "Tumblers & Water Bottles",
+    "items": [
+      {
+        "name_id": "Sakura LED (with LED Temperature Display) 500 ml 8 Color Selections",
+        "name_en": "Sakura LED (with LED Temperature Display) 500 ml 8 Color Selections",
+        "image": "/uploads/image-1766869591861-564399020.png"
+      },
+      {
+        "name_id": "SPORT ALUMINIUM 500 ml dan 750 ml 6 Color Selections ",
+        "name_en": "SPORT ALUMINIUM 500 ml dan 750 ml 6 Color Selections d",
+        "image": "/uploads/image-1766869609731-470366163.png"
+      },
+      {
+        "name_id": "Classic 600 dan 900 ml 5 Color Selections ",
+        "name_en": "Classic 600 dan 900 ml 5 Color Selections ",
+        "image": "/uploads/image-1766870810194-46858487.png"
+      },
+      {
+        "name_id": "Canten L 500 ml 4 Color Selections ",
+        "name_en": "Canten L 500 ml 4 Color Selections ",
+        "image": "/uploads/image-1766870861331-295581136.png"
+      },
+      {
+        "name_id": "Tyisoo 600 600 dan 900 ml 5 Color Selections ",
+        "name_en": "Tyisoo 600 600 dan 900 ml 5 Color Selections ",
+        "image": "/uploads/image-1766870940712-135309742.png"
+      },
+      {
+        "name_id": "Oalah 750 ml 7 Color Selections ",
+        "name_en": "Oalah 750 ml 7 Color Selections ",
+        "image": "/uploads/image-1766871000222-870442714.png"
+      },
+      {
+        "name_id": "Sport Tali 500 ml 5 Color Selections ",
+        "name_en": "Sport Tali 500 ml 5 Color Selections ",
+        "image": "/uploads/image-1766871063986-231219027.png"
+      },
+      {
+        "name_id": "Niagara 500 ml 7 Color Selections ",
+        "name_en": "Niagara 500 ml 7 Color Selections ",
+        "image": "/uploads/image-1766871116182-138942453.png"
+      },
+      {
+        "name_id": "Bowling 500 ml 4 Color Selections ",
+        "name_en": "Bowling 500 ml 4 Color Selections ",
+        "image": "/uploads/image-1766871160253-32625325.png"
+      },
+      {
+        "name_id": "Flask Tali Kulit 500 ml 5 Color Selections",
+        "name_en": "Flask Tali Kulit 500 ml 5 Color Selections",
+        "image": "/uploads/image-1766871275233-501755914.png"
+      },
+      {
+        "name_id": "Elite 500 ml 12 Color Selections ",
+        "name_en": "Elite 500 ml 12 Color Selections ",
+        "image": "/uploads/image-1766871331766-919096397.png"
+      },
+      {
+        "name_id": "Japan 500 ml 5 Color Selections ",
+        "name_en": "Japan 500 ml 5 Color Selections ",
+        "image": "/uploads/image-1766871382493-565292237.png"
+      }
+    ],
+    "details_id": [
+      "Kapasitas: 330 ml – 900 ml",
+      "Pilihan warna beragam",
+      "Cocok untuk souvenir & corporate gift"
+    ],
+    "details_en": [
+      "Capacity: 330 ml – 900 ml",
+      "Various color choices",
+      "Suitable for souvenirs & corporate gifts"
+    ],
+    "image": "/uploads/image-1766869552600-700823666.png"
+  },
+  {
+    "id": "2",
+    "category_id": "Custom Design",
+    "category_en": "Custom Design",
+    "items": [
+      {
+        "name_id": "Custom design 2 sisi Size: 330 ml",
+        "name_en": "Custom design 2 sisi Size: 330 ml",
+        "image": "/uploads/image-1766871497797-748827787.png"
+      },
+      {
+        "name_id": "Mug Egg 350 ml 14 Color Selections ",
+        "name_en": "Mug Egg 350 ml 14 Color Selections ",
+        "image": "/uploads/image-1766871590291-120374703.png"
+      },
+      {
+        "name_id": "Custom design kulit Size: 330 ml ",
+        "name_en": "Custom design kulit Size: 330 ml ",
+        "image": "/uploads/image-1766871796502-222194223.png"
+      },
+      {
+        "name_id": "Mug Cruisser Custom design Size: 900 ml 6 Color Selection",
+        "name_en": "Mug Cruisser Custom design Size: 900 ml 6 Color Selection",
+        "image": "/uploads/image-1766871877089-387614849.png"
+      },
+      {
+        "name_id": "Americano 500 ml Silver",
+        "name_en": "Americano 500 ml Silver",
+        "image": "/uploads/image-1766871957462-303382646.png"
+      },
+      {
+        "name_id": "Mug Office 500 ml 5 Color Selections",
+        "name_en": "Mug Office 500 ml 5 Color Selections",
+        "image": "/uploads/image-1766872009931-101128485.png"
+      },
+      {
+        "name_id": "Mug Oval 600 ml 5 Color Selections ",
+        "name_en": "Mug Oval 600 ml 5 Color Selections ",
+        "image": "/uploads/image-1766872060412-803882432.png"
+      },
+      {
+        "name_id": "Mug Granat 280 ml 6 Color Selection",
+        "name_en": "Mug Granat 280 ml 6 Color Selection",
+        "image": "/uploads/image-1766872109242-776425966.png"
+      }
+    ],
+    "details_id": [
+      "Kapasitas: 280 ml – 900 ml",
+      "Bisa custom desain (logo, tulisan, gambar)"
+    ],
+    "details_en": [
+      "Capacity: 280 ml – 900 ml",
+      "Customizable design (logo, text, image)"
+    ],
+    "image": "/uploads/image-1766871644894-785308529.png"
+  },
+  {
+    "id": "3",
+    "category_id": "TAS",
+    "category_en": "Bags",
+    "items": [
+      {
+        "name_id": "HL - BA_001 Bahan: Cordura, Taslan Custom design",
+        "name_en": "HL - BA_001 Bahan: Cordura, Taslan Custom design",
+        "image": "/uploads/image-1766872278075-171539717.png"
+      },
+      {
+        "name_id": "HL - BA_002 Bahan: Cordura, Taslan Custom design",
+        "name_en": "HL - BA_002 Bahan: Cordura, Taslan Custom design",
+        "image": "/uploads/image-1766872370376-806698617.png"
+      },
+      {
+        "name_id": "HL - BA_003 Backpack Custom Model and Design",
+        "name_en": "HL - BA_003 Backpack Custom Model and Design",
+        "image": "/uploads/image-1766872425472-663788116.png"
+      },
+      {
+        "name_id": "HL - BA_004 Goodie Bag Spunbond Custom Color and Design ",
+        "name_en": "HL - BA_004 Goodie Bag Spunbond Custom Color and Design ",
+        "image": "/uploads/image-1766872490212-350818425.png"
+      },
+      {
+        "name_id": "HL - BA_005 Tote Bag Canvas/Mika Bening Custom Design",
+        "name_en": "HL - BA_005 Tote Bag Canvas/Mika Bening Custom Design",
+        "image": "/uploads/image-1766872602713-840456266.png"
+      }
+    ],
+    "details_id": [
+      "Bahan: Cordura, Taslan, Canvas, Mika, Spunbond",
+      "Model & desain custom sesuai kebutuhan"
+    ],
+    "details_en": [
+      "Materials: Cordura, Taslan, Canvas, Mica, Spunbond",
+      "Custom models & designs as needed"
+    ],
+    "image": "/uploads/image-1766872207054-612531137.png"
+  },
+  {
+    "id": "4",
+    "category_id": "Buku",
+    "category_en": "Books",
+    "items": [
+      {
+        "name_id": "HL - B_001 Notebook and Pen Custom Color and Design",
+        "name_en": "HL - B_001 Notebook and Pen Custom Color and Design",
+        "image": "/uploads/image-1766873439995-263019898.png"
+      },
+      {
+        "name_id": "HL - B_002 Buku Doa Panduan Haji dan Umrah Custom Design",
+        "name_en": "HL - B_002 Buku Doa Panduan Haji dan Umrah Custom Design",
+        "image": "/uploads/image-1766873481728-670058689.png"
+      },
+      {
+        "name_id": "HL - B_003 Buku Yasin Soft/Hard Cover Custom Design ",
+        "name_en": "HL - B_003 Buku Yasin Soft/Hard Cover Custom Design ",
+        "image": "/uploads/image-1766873552189-995570074.png"
+      },
+      {
+        "name_id": "HL - B_004 Kalendar Meja Foto Custom Design",
+        "name_en": "HL - B_004 Kalendar Meja Foto Custom Design",
+        "image": "/uploads/image-1766873609273-448093552.png"
+      }
+    ],
+    "details_id": [
+      "Custom cover & desain"
+    ],
+    "details_en": [
+      "Custom cover & design"
+    ],
+    "image": "/uploads/image-1766873218409-270590162.png"
+  },
+  {
+    "id": "5",
+    "category_id": "Perlengkapan Ibadah",
+    "category_en": "Worship Supplies",
+    "items": [
+      {
+        "name_id": "HL - W_001 Kain Ihram ",
+        "name_en": "HL - W_001 Kain Ihram ",
+        "image": "/uploads/image-1766873995256-192161087.png"
+      },
+      {
+        "name_id": "HL - W_002 Bergoh Bahan Jersey",
+        "name_en": "HL - W_002 Bergoh Bahan Jersey",
+        "image": "/uploads/image-1766874062531-986050074.png"
+      },
+      {
+        "name_id": "HL - W_003 Sajadah Travel Custom Color and Design",
+        "name_en": "HL - W_003 Sajadah Travel Custom Color and Design",
+        "image": "/uploads/image-1766874111604-638719968.png"
+      },
+      {
+        "name_id": "HL - W_004 Mukena plus pouch",
+        "name_en": "HL - W_004 Mukena plus pouch",
+        "image": "/uploads/image-1766874176586-555332043.png"
+      }
+    ],
+    "details_id": [
+      "Cocok untuk paket umrah & haji"
+    ],
+    "details_en": [
+      "Suitable for Hajj & Umrah packages"
+    ],
+    "image": "/uploads/image-1766873817804-266916845.png"
+  },
+  {
+    "id": "6",
+    "category_id": "Koper & Travel Set",
+    "category_en": "Suitcases & Travel Sets",
+    "items": [
+      {
+        "name_id": "HL - K_001 Custom design Size: 18\", 20\", 24\"",
+        "name_en": "HL - K_001 Custom design Size: 18\", 20\", 24\"",
+        "image": "/uploads/image-1766874288410-395166669.png"
+      },
+      {
+        "name_id": "HL - K_002 Custom design Size: 18\", 20\", 24\"",
+        "name_en": "HL - K_002 Custom design Size: 18\", 20\", 24\"",
+        "image": "/uploads/image-1766874319517-891935832.png"
+      },
+      {
+        "name_id": "HL - K_003 Custom design Size: 24\"",
+        "name_en": "HL - K_003 Custom design Size: 24\"",
+        "image": "/uploads/image-1766880852253-770944508.png"
+      },
+      {
+        "name_id": "HL - K_004 Custom design Size: 18\", 20\", 24\"",
+        "name_en": "HL - K_004 Custom design Size: 18\", 20\", 24\"",
+        "image": "/uploads/image-1766880902813-637106598.png"
+      },
+      {
+        "name_id": "HL - K_005 Custom design Size: 20\", 24\"",
+        "name_en": "HL - K_005 Custom design Size: 20\", 24\"",
+        "image": "/uploads/image-1766880941899-555817951.png"
+      },
+      {
+        "name_id": "HL - K_006 Custom design Size: 18\", 20\", 24\", 26\"",
+        "name_en": "HL - K_006 Custom design Size: 18\", 20\", 24\", 26\"",
+        "image": "/uploads/image-1766881100030-643640701.png"
+      },
+      {
+        "name_id": "HL - K_007 Custom design Size: 20\", 24\"",
+        "name_en": "HL - K_007 Custom design Size: 20\", 24\"",
+        "image": "/uploads/image-1766881132837-479284562.png"
+      },
+      {
+        "name_id": "HL - K_008 Custom design Size: 18\", 22\", 26\"",
+        "name_en": "HL - K_008 Custom design Size: 18\", 22\", 26\"",
+        "image": "/uploads/image-1766881172913-230236875.png"
+      },
+      {
+        "name_id": "HL - K_009 Custom design Size: 18\", 20\", 24\"",
+        "name_en": "HL - K_009 Custom design Size: 18\", 20\", 24\"",
+        "image": "/uploads/image-1766881220124-778970901.png"
+      },
+      {
+        "name_id": "HL - K_010 Custom design Size: 18\", 20\", 24\"",
+        "name_en": "HL - K_010 Custom design Size: 18\", 20\", 24\"",
+        "image": "/uploads/image-1766881269467-167030673.png"
+      }
+    ],
+    "details_id": [
+      "Ukuran: 18” – 26”",
+      "Custom desain & warna",
+      "Untuk travel, umrah, dan corporate gift"
+    ],
+    "details_en": [
+      "Size: 18” – 26”",
+      "Custom design & color",
+      "For travel, umrah, and corporate gifts"
+    ],
+    "image": "/uploads/image-1766881302865-662900956.png"
+  },
+  {
+    "id": "7",
+    "category_id": "Produk Kantor",
+    "category_en": "Office Products",
+    "items": [
+      {
+        "name_id": "HL - OFC_001 Kertas Kop Surat Custom Design size A4, F4",
+        "name_en": "HL - OFC_001 Kertas Kop Surat Custom Design size A4, F4",
+        "image": "/uploads/image-1766881406939-935223630.png"
+      },
+      {
+        "name_id": "HL - OFC_002 Amplop Kop Surat Custom Design Custom Design size A4, F4",
+        "name_en": "HL - OFC_002 Amplop Kop Surat Custom Design Custom Design size A4, F4",
+        "image": "/uploads/image-1766881477056-435616274.png"
+      },
+      {
+        "name_id": "HL - OFC_003 Brosur Custom Design size A5 dan A6",
+        "name_en": "HL - OFC_003 Brosur Custom Design size A5 dan A6",
+        "image": "/uploads/image-1766881514761-399770725.png"
+      },
+      {
+        "name_id": "HL - OFC_004 Kartu Nama Custom Design ",
+        "name_en": "HL - OFC_004 Kartu Nama Custom Design ",
+        "image": "/uploads/image-1766881620132-544326485.png"
+      },
+      {
+        "name_id": "HL - OFC_005 Map Kop Surat Custom Design size Folio, F4, A4",
+        "name_en": "HL - OFC_005 Map Kop Surat Custom Design size Folio, F4, A4",
+        "image": "/uploads/image-1766881674134-376250810.png"
+      },
+      {
+        "name_id": "HL - OFC_006 Kwitansi, Surat Jalan, Tanda Terima Custom Design size: 1/2F, 1/3F, 1/4F",
+        "name_en": "HL - OFC_006 Kwitansi, Surat Jalan, Tanda Terima Custom Design size: 1/2F, 1/3F, 1/4F",
+        "image": "/uploads/image-1766881728219-332846611.png"
+      }
+    ],
+    "details_id": [
+      "Desain & ukuran custom"
+    ],
+    "details_en": [
+      "Custom design & size"
+    ],
+    "image": "/uploads/image-1766881844346-374544312.png"
+  },
+  {
+    "id": "8",
+    "category_id": "Wedding Souvenirs",
+    "category_en": "Wedding Souvenirs",
+    "items": [
+      {
+        "name_id": "HL - WS_001 Mangkok Set Custom Design and Size",
+        "name_en": "HL - WS_001 Mangkok Set Custom Design and Size",
+        "image": "/uploads/image-1766881933747-617146443.png"
+      },
+      {
+        "name_id": "HL - WS_002 Talenan Kayu Custom Design",
+        "name_en": "HL - WS_002 Talenan Kayu Custom Design",
+        "image": "/uploads/image-1766883306526-855357659.png"
+      },
+      {
+        "name_id": "HL -WS_003 Lilin Aromatherapy Custom Design",
+        "name_en": "HL -WS_003 Lilin Aromatherapy Custom Design",
+        "image": "/uploads/image-1766883340741-392888682.png"
+      },
+      {
+        "name_id": "HL - WS_004 Set Alat Makan Custom Design ",
+        "name_en": "HL - WS_004 Set Alat Makan Custom Design ",
+        "image": "/uploads/image-1766883377460-513383536.png"
+      }
+    ],
+    "details_id": [
+      "By request / custom tema"
+    ],
+    "details_en": [
+      "By request / custom theme"
+    ],
+    "image": "/uploads/image-1766883454861-480598523.png"
+  },
+  {
+    "id": "9",
+    "category_id": "Various Accessories",
+    "category_en": "Various Accessories",
+    "items": [
+      {
+        "name_id": "HL - VA_001 Lanyard & Id Card Custom Color and Design",
+        "name_en": "HL - VA_001 Lanyard & Id Card Custom Color and Design",
+        "image": "/uploads/image-1766886723309-358127193.png"
+      },
+      {
+        "name_id": "HL - VA_002 Payung Lipat dan Golf Custom Color and Design Logo 2atau 4 sisi",
+        "name_en": "HL - VA_002 Payung Lipat dan Golf Custom Color and Design Logo 2atau 4 sisi",
+        "image": "/uploads/image-1766886777890-656994645.png"
+      },
+      {
+        "name_id": "HL - VA_003 Undangan Pernikahan Custom Color and Design",
+        "name_en": "HL - VA_003 Undangan Pernikahan Custom Color and Design",
+        "image": "/uploads/image-1766886822085-15987631.png"
+      },
+      {
+        "name_id": "HL - VA_004 Aneka Topi Custom Color and Design ",
+        "name_en": "HL - VA_004 Aneka Topi Custom Color and Design ",
+        "image": "/uploads/image-1766886877396-802336738.png"
+      },
+      {
+        "name_id": "HL - VA_005 T-Shirt Polo Shirt Custom Color and Design",
+        "name_en": "HL - VA_005 T-Shirt Polo Shirt Custom Color and Design",
+        "image": "/uploads/image-1766886925000-826113117.png"
+      },
+      {
+        "name_id": "HL - VA_006 Syal Bahan Rajut/Kain Custom Color and Design",
+        "name_en": "HL - VA_006 Syal Bahan Rajut/Kain Custom Color and Design",
+        "image": "/uploads/image-1766886961784-569140859.png"
+      }
+    ],
+    "details_id": [],
+    "details_en": [],
+    "image": "/uploads/image-1766887269057-694813961.png"
+  },
+  {
+    "id": "10",
+    "category_id": "Hampers",
+    "category_en": "Hampers",
+    "items": [
+      {
+        "name_id": " HL - H_001 ULANG TAHUN",
+        "name_en": " HL - H_001 ULANG TAHUN",
+        "image": "/uploads/image-1766887443909-849261738.png"
+      },
+      {
+        "name_id": "HL - H_002 HARI RAYA",
+        "name_en": "HL - H_002 HARI RAYA",
+        "image": "/uploads/image-1766887545559-30540284.png"
+      },
+      {
+        "name_id": "HL -H_003 AQIQAH",
+        "name_en": "HL -H_003 AQIQAH",
+        "image": "/uploads/image-1766887684506-620996267.png"
+      },
+      {
+        "name_id": "HL - H_004 SUNATAN",
+        "name_en": "HL - H_004 SUNATAN",
+        "image": "/uploads/image-1766888272894-855213674.png"
+      }
+    ],
+    "details_id": [
+      "Tema: Ulang Tahun, Hari Raya, Aqiqah, Sunatan",
+      "Isi & desain custom sesuai permintaan"
+    ],
+    "details_en": [
+      "Themes: Birthday, Holiday, Aqiqah, Circumcision",
+      "Custom content & design as requested"
+    ],
+    "image": "/uploads/image-1766887381213-653147403.png"
+  }
+]
