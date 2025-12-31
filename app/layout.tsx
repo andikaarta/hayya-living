@@ -1,14 +1,15 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
-import { Providers } from './providers';
 import Navbar from '@/components/Navbar';
+import { Providers } from './providers';
+import WhatsAppFloat from '@/components/WhatsAppFloat';
 
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Hayya Living Sejahtera',
-  description: 'Simple, Stylish, and High Quality Accessories & Merchandise',
+  description: 'Provide Custom Tumbler & Souvenirs for Corporate & Events',
 };
 
 export default function RootLayout({
@@ -17,11 +18,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="id">
+    <html lang="en">
       <body className={inter.className}>
         <Providers>
           <Navbar />
           {children}
+          <WhatsAppFloat />
         </Providers>
       </body>
     </html>

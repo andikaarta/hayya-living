@@ -11,7 +11,7 @@ export default function AdminLogin() {
     const handleLogin = (e: React.FormEvent) => {
         e.preventDefault();
         // Simple hardcoded password for demonstration
-        if (password === 'hayya123') {
+        if (password === process.env.NEXT_PUBLIC_ADMIN_PASSWORD) {
             // Set a cookie or local storage to simulate session
             localStorage.setItem('admin_auth', 'true');
             router.push('/admin');
